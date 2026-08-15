@@ -1,104 +1,56 @@
-#  Hi, I'm Manish Vemula
+# Hi, I'm Manish Vemula
 
-🎓 Dual Master’s Graduate — MBA & MS in Information Systems  
-📍 Michigan, United States  
-💻 Data Engineering | Machine Learning | MLOps  
+AI Engineer focused on building practical machine learning, Generative AI, RAG, and MLOps applications.
 
-I build **production-style data and machine learning systems** that simulate real-world business environments — from data pipelines and feature engineering to deployed ML APIs.
+I enjoy taking projects beyond notebooks by adding APIs, deployment workflows, evaluation, and user-facing interfaces. My recent work includes fraud detection, credit-risk modeling, demand forecasting, and AI-assisted document evaluation.
 
----
+## Featured Projects
 
-# About Me
+### AI Resume Screening & RAG Evaluation System
+Resume-to-job-description evaluation application with FastAPI and Streamlit, combining textual similarity and skill-gap analysis.
 
-🔭 Currently working on  
-Production-style **Machine Learning pipelines**, ML APIs using **FastAPI**, and **Dockerized ML workflows**
-
-👯 Looking to collaborate on  
-Open-source **Machine Learning systems**, **data engineering pipelines**, and **real-world AI applications**
-
-🤝 Looking for help with  
-Advanced **MLOps practices**, **model monitoring**, and **scalable ML deployment**
-
-🌱 Currently learning  
-**Kubernetes for ML**, advanced **SQL optimization**, and **scalable cloud architectures**
-
-💬 Ask me about  
-Machine Learning pipelines, ML APIs, feature engineering, and building end-to-end ML projects
-
-⚡ Fun fact  
-I enjoy turning messy real-world datasets into structured ML pipelines that mimic production systems.
-
----
-
-# Live Projects
-
-### Credit Risk Scoring ML App
-https://credit-risk-ml-api-35w58ymlamuvxt5htskdv5.streamlit.app/
-
-### Retail Demand Forecasting ML App
-https://retail-demand-forecast-ml-7bska8u5rzhxx9drjv63jm.streamlit.app/
-
-### AI Resume RAG System
-Backend API  
-https://ai-resume-rag-system.onrender.com
-FrontEnd:
-https://ai-resume-rag-system-b3hq35jwmnsnlzfvtxakta.streamlit.app/
+- Backend: https://ai-resume-rag-system.onrender.com
+- Frontend: https://ai-resume-rag-system-b3hq35jwmnsnlzfvtxakta.streamlit.app/
 
 ### Financial Fraud Detection MLOps Pipeline
-API  
-https://financial-fraud-mlops-pipeline.onrender.com/
+Fraud-classification project covering class imbalance, XGBoost and neural-network comparison, threshold optimization, MLflow tracking, Docker, and FastAPI deployment.
 
-Swagger Docs  
-https://financial-fraud-mlops-pipeline.onrender.com/docs
+- API: https://financial-fraud-mlops-pipeline.onrender.com/
+- Swagger: https://financial-fraud-mlops-pipeline.onrender.com/docs
 
----
+### Credit Risk Scoring ML App
+End-to-end credit-risk classification application with XGBoost, model evaluation, FastAPI, and Streamlit.
 
-# Tech Stack
+- Live app: https://credit-risk-ml-api-35w58ymlamuvxt5htskdv5.streamlit.app
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Retail Demand Forecasting Platform
+Store-level weekly sales forecasting using lag features, time-aware cross-validation, Random Forest models, and an interactive Streamlit dashboard.
 
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+- Live app: https://retail-demand-forecast-ml-7bska8u5rzhxx9drjv63jm.streamlit.app/
 
-### Backend & ML APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit)
+## Current Focus
 
-### Data Engineering
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-4285F4?style=for-the-badge)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
+- Production ML APIs with FastAPI
+- Model evaluation and monitoring
+- MLOps and containerized deployment
+- Cloud-based AI and ML systems
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+## Technical Toolkit
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+**AI & ML:** Machine Learning, NLP, RAG, LLM applications, classification, forecasting, anomaly detection  
+**Programming:** Python, SQL, Pandas, NumPy  
+**Frameworks:** FastAPI, Streamlit, Scikit-learn, XGBoost, PyTorch  
+**MLOps:** MLflow, Docker, CI/CD, model versioning  
+**Cloud & Data:** AWS, PostgreSQL, ETL pipelines
 
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-v-887028202/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish.vs96@gmail.com)
-
----
-
-# 📊 GitHub Stats
+## GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MANISH-V14&theme=tokyonight)
 
----
-
-# 📈 Contribution Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MANISH-V14&theme=tokyo-night)
 
----
+## Connect
 
+[LinkedIn](https://www.linkedin.com/in/manish-v-887028202/)
